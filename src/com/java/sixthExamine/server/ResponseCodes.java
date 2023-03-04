@@ -1,4 +1,4 @@
-package server;
+package com.java.sixthExamine.server;
 
 public enum ResponseCodes {
     OK(200),

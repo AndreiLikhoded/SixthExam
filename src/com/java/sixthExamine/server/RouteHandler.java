@@ -1,4 +1,4 @@
-package server;
+package com.java.sixthExamine.server;
 
 import com.sun.net.httpserver.HttpExchange;
 

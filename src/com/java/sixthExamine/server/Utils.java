@@ -1,4 +1,4 @@
-package server;
+package com.java.sixthExamine.server;
 
 import java.net.URLDecoder;
 import java.nio.charset.Charset;

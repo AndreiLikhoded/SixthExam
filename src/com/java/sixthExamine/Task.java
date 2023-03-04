@@ -1,9 +1,7 @@
 package com.java.sixthExamine;
 
-import java.util.ArrayList;
-import java.util.List;
-
 public class Task {
+
     private String id;
     private String name;
     private String description;
@@ -47,5 +45,4 @@ public class Task {
     public void setId(String id) {
         this.id = id;
     }
-
 }

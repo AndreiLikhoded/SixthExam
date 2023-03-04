@@ -1,4 +1,4 @@
-package server;
+package com.java.sixthExamine.server;
 
 import com.sun.net.httpserver.HttpExchange;
 import com.sun.net.httpserver.HttpServer;
@@ -41,7 +41,7 @@ public abstract class BasicServer {
     }
 
     private static HttpServer createServer(String host, int port) throws IOException {
-        var msg = "Starting server on http://%s:%s/%n";
+        var msg = "Starting com.java.sixthExamine.server on http://%s:%s/%n";
         System.out.printf(msg, host, port);
         var address = new InetSocketAddress(host, port);
         return HttpServer.create(address, 50);

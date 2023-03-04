@@ -1,7 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e2488dd2-ce73-45aa-8ccb-a1502a838d83" name="Changes" comment="" />
+    <list default="true" id="e2488dd2-ce73-45aa-8ccb-a1502a838d83" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/bg/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/calendar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/createTask.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/css/calendar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/css/forms.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/css/freemarker.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/days.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/images/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/taskDetails.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lorem.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collaboration/Calendar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collaboration/Event.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collaboration/Events.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collaboration/SubCalendar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/sixthExamine/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/sixthExamine/Month.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/sixthExamine/server/Lesson44Server.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/sixthExamine/Task.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/sixthExamine/Task.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/server/BasicServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/sixthExamine/server/BasicServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/server/ContentType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/sixthExamine/server/ContentType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/server/Generator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/sixthExamine/server/Generator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/server/ResponseCodes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/sixthExamine/server/ResponseCodes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/server/RouteHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/sixthExamine/server/RouteHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/server/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/sixthExamine/server/Utils.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,14 +61,35 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/AttractorSchool/SixthExamine/src/server"
+    "last_opened_file_path": "C:/AttractorSchool/SixthExamine"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\AttractorSchool\SixthExamine\src\server" />
       <recent name="C:\AttractorSchool\SixthExamine" />
+      <recent name="C:\AttractorSchool\SixthExamine\data" />
+      <recent name="C:\AttractorSchool\SixthExamine\src\server" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="Collaboration" />
+      <recent name="com.java.sixthExamine.server" />
+      <recent name="com.java.sixthExamine" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="SixthExamine" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">

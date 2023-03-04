@@ -1,4 +1,4 @@
-package server;
+package com.java.sixthExamine.server;
 
 import java.io.IOException;
 import java.nio.file.Files;
@@ -63,12 +63,6 @@ public final class Generator {
     }
 
     static final Pattern removeExtra = Pattern.compile("[.,;]+?");
-    public static String makeEmail() {
-        var prefix = removeExtra.matcher(makeGibberish(2,0)).replaceAll("").toLowerCase();
-        var suffix = removeExtra.matcher(makeGibberish(2,0)).replaceAll("").toLowerCase();
-        var email =  prefix + "@" + suffix;
-        return email.replace(" ", "");
-    }
 
     public static String makePassword() {
         return removeExtra.matcher(makeGibberish(0,1))

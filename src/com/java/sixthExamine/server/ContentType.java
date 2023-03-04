@@ -1,4 +1,4 @@
-package server;
+package com.java.sixthExamine.server;
 
 public enum ContentType {
     TEXT_PLAIN("text/plain; charset=utf-8"),
